@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gar1cia
 - 👀 I’m interested in becoming a software engineer.
 - 🌱 I’m currently learning full-stack with MIT xPRO, FrontEnd Masters, and bitwise.
-- 💞️ I’m looking to collaborate on whatever you will let me.
+- 💞️ I’m looking to collaborate on entry-level assignments.
 - 📫 Reach me on email at paulmichael.garcia@gmail.com.
 
 <!---
